@@ -55,6 +55,5 @@ def run_task_5(filename):
     print("Done")
 
 if __name__=="__main__":
-    # Update path below
     file_name=r"C:\Users\AMITH\D\COLLEGE FILES\MULTIMEDIA\1H2624CYS212-Multimedia-Processing\Question 5\Torgya - Arunachal Festival.jpg"
     run_task_5(file_name)
